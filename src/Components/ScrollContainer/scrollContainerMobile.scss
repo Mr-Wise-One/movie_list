@@ -1,0 +1,29 @@
+@media screen and (max-width: 414px) {
+  .scroll-btn-box {
+    height: 500px !important;
+    margin-top: -250px !important;
+    right: 0rem !important;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .scroll-btn-box {
+    height: 440px !important;
+    margin-top: -220px !important;
+    right: 0.5rem !important;
+  }
+}
+
+@media screen and (max-width: 667px) and (orientation: landscape) {
+  .scroll-btn-box {
+    right: 1rem !important;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .scroll-btn-box {
+    height: 400px !important;
+    margin-top: -200px !important;
+    right: 0.5rem !important;
+  }
+}
